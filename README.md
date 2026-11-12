@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Daniel Silva 👋</h1>
 
 <p align="center">
-  Estudante de programação 🇧🇷 · Dados, IA e desenvolvimento de software
+  Estudante de programação 🇧🇷 · Apaixonado por banco de dados, dados e IA
 </p>
 
 <p align="center">
@@ -19,11 +19,12 @@
 
 ## 👨‍💻 Sobre mim
 
+- 🗄️ **Apaixonado por banco de dados**: modelagem, consultas e tudo que envolve organizar e extrair valor dos dados
 - 🎓 Estudando programação na faculdade e praticando com projetos próprios
-- 📊 Atualmente explorando **análise de dados, estatística, grafos e inteligência artificial**
+- 📊 Explorando **análise de dados, estatística, grafos e inteligência artificial**
 - 🤖 Construindo meus primeiros **chatbots** e dashboards
 - 💻 Já trabalhei com **C**, **Java**, **JavaScript** e **HTML/CSS**
-- 🦈 Conquista desbloqueada: **Pull Shark**
+- 🦈 Conquista desbloqueada: **Pull Shark** (Pull Requests aceitos em projetos no GitHub)
 
 ---
 
@@ -42,10 +43,10 @@
 
 ## 📚 Projetos anteriores
 
-- 🗡️ [Dungeon-Crawler](https://github.com/DanielHReis/Dungeon-Crawler) — jogo em **C**
-- 🎓 [aluno-Online-Cesupa](https://github.com/DanielHReis/aluno-Online-Cesupa) — funções do Aluno Online da faculdade, em **C**
-- ☕ [Projeto-Java](https://github.com/DanielHReis/Projeto-Java) — projeto prático de aprendizado em **Java**
-- 🌀 [projeto-jujutsu-final](https://github.com/DanielHReis/projeto-jujutsu-final) — projeto web em **HTML**
+- 🗡️ [Dungeon-Crawler](https://github.com/DanielHReis/Dungeon-Crawler): jogo em **C**
+- 🎓 [aluno-Online-Cesupa](https://github.com/DanielHReis/aluno-Online-Cesupa): funções do Aluno Online da faculdade, em **C**
+- ☕ [Projeto-Java](https://github.com/DanielHReis/Projeto-Java): projeto prático de aprendizado em **Java**
+- 🌀 [projeto-jujutsu-final](https://github.com/DanielHReis/projeto-jujutsu-final): projeto web em **HTML**
 
 ---
 
@@ -54,6 +55,7 @@
 - [x] Criar meus primeiros projetos em C e Java
 - [x] Desenvolver projetos de dados e chatbots com Python
 - [x] Contribuir com Pull Requests
+- [ ] Aprofundar em banco de dados (modelagem avançada, otimização de consultas)
 - [ ] Aprofundar em Machine Learning e IA
 - [ ] Construir um projeto completo e colocá-lo no ar
 
