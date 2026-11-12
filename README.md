@@ -1,13 +1,16 @@
 <h1 align="center">Olá, eu sou o Daniel Silva 👋</h1>
 
 <p align="center">
-  Estudante de programação 🇧🇷 · Aprendendo, construindo e quebrando a cabeça com código
+  Estudante de programação 🇧🇷 · Dados, IA e desenvolvimento de software
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -17,40 +20,52 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudando programação na faculdade e praticando com projetos próprios
-- 💻 Trabalho principalmente com **C**, **Java** e **HTML/CSS**
-- 🎮 Gosto de criar jogos e projetos que me desafiam a aprender algo novo
-- 🌱 Atualmente focado em evoluir minha lógica, estruturas de dados e boas práticas
+- 📊 Atualmente explorando **análise de dados, estatística, grafos e inteligência artificial**
+- 🤖 Construindo meus primeiros **chatbots** e dashboards
+- 💻 Já trabalhei com **C**, **Java**, **JavaScript** e **HTML/CSS**
 - 🦈 Conquista desbloqueada: **Pull Shark**
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos recentes
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [🗡️ Dungeon-Crawler](https://github.com/DanielHReis/Dungeon-Crawler) | Jogo no estilo dungeon crawler desenvolvido em C | `C` |
-| [☕ Projeto-Java](https://github.com/DanielHReis/Projeto-Java) | Projeto prático em Java para aprendizado | `Java` |
-| [🎓 aluno-Online-Cesupa](https://github.com/DanielHReis/aluno-Online-Cesupa) | Atividade avaliativa que recria funções do Aluno Online da faculdade | `C` |
-| [🌀 projeto-jujutsu-final](https://github.com/DanielHReis/projeto-jujutsu-final) | Projeto web com tema de Jujutsu Kaisen | `HTML` |
-| [🕹️ Compilado-Jogos](https://github.com/DanielHReis/Compilado-Jogos) | Coletânea de jogos que desenvolvi | `Jogos` |
+| [🤖 Chabot-BancoDeDados](https://github.com/DanielHReis/Chabot-BancoDeDados) | Chatbot integrado a banco de dados | `Python` |
+| [🧠 ProjetoIA-ChatBot](https://github.com/DanielHReis/ProjetoIA-ChatBot) | Projeto de chatbot com inteligência artificial | `Jupyter Notebook` |
+| [🕸️ Grafos-Rede-Social](https://github.com/DanielHReis/Grafos-Rede-Social) | Modelagem de uma rede social usando teoria dos grafos | `Python` |
+| [📈 Projeto-Estatistica-Probabilidade](https://github.com/DanielHReis/Projeto-Estatistica-Probabilidade) | Análises de estatística e probabilidade | `Jupyter Notebook` |
+| [📊 Dashboard-Projeto](https://github.com/DanielHReis/Dashboard-Projeto) | Dashboard com análise de dados | `Jupyter Notebook` |
+| [🛒 Loja-Tech](https://github.com/DanielHReis/Loja-Tech) | Projeto web de loja de tecnologia | `JavaScript` |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📚 Projetos anteriores
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielHReis&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHReis&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+- 🗡️ [Dungeon-Crawler](https://github.com/DanielHReis/Dungeon-Crawler) — jogo em **C**
+- 🎓 [aluno-Online-Cesupa](https://github.com/DanielHReis/aluno-Online-Cesupa) — funções do Aluno Online da faculdade, em **C**
+- ☕ [Projeto-Java](https://github.com/DanielHReis/Projeto-Java) — projeto prático de aprendizado em **Java**
+- 🌀 [projeto-jujutsu-final](https://github.com/DanielHReis/projeto-jujutsu-final) — projeto web em **HTML**
 
 ---
+
+## 🎯 Metas
+
+- [x] Criar meus primeiros projetos em C e Java
+- [x] Desenvolver projetos de dados e chatbots com Python
+- [x] Contribuir com Pull Requests
+- [ ] Aprofundar em Machine Learning e IA
+- [ ] Construir um projeto completo e colocá-lo no ar
+
+---
+
 ## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="www.linkedin.com/in/danielh-silva">
+  <a href="https://www.linkedin.com/in/danielh-silva">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="daniricorsilva@gmail.com">
+  <a href="mailto:daniricorsilva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
